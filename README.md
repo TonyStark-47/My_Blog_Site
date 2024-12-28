@@ -1,0 +1,4 @@
+- A Blog site made using Python(Flask), Bootstrap, HTML, CSS
+- Make code reusable and shorter using Jinja template that comes with flask.
+- Contact form is working and sending messages to email.
+- to make it work, you need to add your own gmail and its app password.
